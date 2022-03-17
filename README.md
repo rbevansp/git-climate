@@ -10,5 +10,5 @@ The raw input data with source information is in `data`. The processed data and 
 To generate the processed data use the following command:
 
 ```
-Rscript src/make-plot.R
+Rscript src/combine-data.R
 ```
